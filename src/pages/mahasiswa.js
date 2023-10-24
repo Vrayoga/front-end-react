@@ -303,8 +303,8 @@ function Mahasiswa() {
               <th scope="col">Nama</th>
               <th scope="col">nrp</th>
               <th scope="col">Jurusan</th>
-              <th scope="col">#</th>
-              <th scope="col">#</th>
+              <th scope="col">gambar</th>
+              <th scope="col">swa foto</th>
               <th scope="col" colSpan={2}>
                 Action
               </th>
